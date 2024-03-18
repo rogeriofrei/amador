@@ -1,0 +1,108 @@
+
+
+#EXTM3U
+#EXTINF:-1Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w485848166.m3u8
+#EXTINF:-1 CinePIX 
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w735420627.m3u8
+#EXTINF:-1 Tv Clássicos
+https://stmv1.srvif.com/canal29/canal29/chunklist_w279725802.m3u8
+#EXTINF:-1 GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w380899553.m3u8
+#EXTINF:-1 Cine Tv
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w12351136.m3u8
+#EXTINF:-1 ULB TV 
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1953905735.m3u8
+#EXTINF:-1 CHANNEL 1 
+https://stmv1.srvif.com/movies1/movies1/chunklist_w552716895.m3u8
+#EXTINF:-1 Tv Channel
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8?nimblesessionid=169090840
+#EXTINF:-1 Grjngo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/de5f9db2-3140-4b06-b2a1-39c73ac47e49/2.m3u8
+#EXTINF:-1 Sony One Shark Tank Brasil
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/2c03453f-d96c-4791-bcc9-b353ba392eaa/2.m3u8
+#EXTINF:-1 MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 Canal 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1479023044.m3u8
+#EXTINF:-1 Web Tv Agua Boa
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w729144257.m3u8
+#EXTINF:-1 TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 SIC 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 TVI
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI0IDQ6MTU6MTIgQU0maGFzaF92YWx1ZT1wa0NPWWVwUFdlVmhXbGNtUFBhaUxBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzZkY2M2ZWUtN2ZkMS00YmYyLThlMmUtNDQ1Yzc3NmM0NmU2
+#EXTINF:-1 Rio de Janeiro - Copacabana Ao Vivo 
+https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w1585600594.m3u8?t=v81YHtRnSLjCYkjUlJVO62rT%2BFhYTirxrXIvZJ9Is7yxd0w7EsfzXCaYgoIr16jA&cid=
+#EXTINF:-1 Ponte Internacional da Amizade 
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+#EXTINF:-1 Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w359150749.m3u8
+#EXTINF:-1 Bons Tempos 
+https://stmv1.srvif.com/canal29/canal29/chunklist_w447685738.m3u8
+#EXTINF:-1 Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1663749028.m3u8
+#EXTINF:-1 Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1382994280.m3u8
+#EXTINF:-1 Record News 
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1267217851.m3u8
+#EXTINF:-1 Otaku Sign Tv
+https://stmv1.srvif.com/otaku/otaku/chunklist_w348423819.m3u8
+#EXTINF:-1 Cine Tv Hits
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1833743507.m3u8
+#EXTINF:-1 Sport TV 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 Sport TV 2
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1945861970&e=s&n=5723095061685106&abc=1&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=0&ccp=0&cp=0&d=1&eb=0&ed=6&emi=orldfu1q6t3p&i=1&lid=10tspbw1loik&lsa=set&mt=0&pbd=1&pbr=1&pgi=wr60w9sh7wyq&ph=1&pid=KB5zFt7A&pii=0&pl=485&plc=1&pli=rxmmkzvt6i8a&pp=hlsjs&ppm=DVR&prc=1&ps=4&pss=1&pt=&pu=https%3A%2F%2Ftv0800.zip%2F&pv=8.32.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=4.0.3&vb=1&vi=1&vl=90&wd=862&abm=1&bwe=500&cae=0&cct=0&ch=2&cst=10782&cdid=player&dnt=1&drm=0&ff=1540&fsm=0&l=0&lng=pt_BR&mk=level(3000000)&mu=https%3A%2F%2Fda-d50d12b5.online.meo.pt%2Fwp%2Fcdn-er-vspp-cvl2.online.meo.pt%2Fshls%2FLIVE%24SPORTTV1_HD%2Findex.m3u8%2FS!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf%2FLevel(3000000)&pcp=10782&pd=2&plng=pt_BR&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=6590&tb=10788&tt=0&vd=0&vh=720&vs=0&vw=1280&sa=1710775870816
+#EXTINF:-1 Sport TV 1
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1945861970&e=s&n=5723095061685106&abc=1&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=0&ccp=0&cp=0&d=1&eb=0&ed=6&emi=orldfu1q6t3p&i=1&lid=10tspbw1loik&lsa=set&mt=0&pbd=1&pbr=1&pgi=wr60w9sh7wyq&ph=1&pid=KB5zFt7A&pii=0&pl=485&plc=1&pli=rxmmkzvt6i8a&pp=hlsjs&ppm=DVR&prc=1&ps=4&pss=1&pt=&pu=https%3A%2F%2Ftv0800.zip%2F&pv=8.32.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=4.0.3&vb=1&vi=1&vl=90&wd=862&abm=1&bwe=500&cae=0&cct=0&ch=2&cst=10782&cdid=player&dnt=1&drm=0&ff=1540&fsm=0&l=0&lng=pt_BR&mk=level(3000000)&mu=https%3A%2F%2Fda-d50d12b5.online.meo.pt%2Fwp%2Fcdn-er-vspp-cvl2.online.meo.pt%2Fshls%2FLIVE%24SPORTTV1_HD%2Findex.m3u8%2FS!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf%2FLevel(3000000)&pcp=10782&pd=2&plng=pt_BR&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=6590&tb=10788&tt=0&vd=0&vh=720&vs=0&vw=1280&sa=1710775870816
+#EXTINF:-1 Eleven Sports
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1093742810&e=s&n=5234151094239266&abc=1&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=0&ccp=0&cp=0&d=1&eb=0&ed=6&emi=m86vow92wro5&i=1&lid=10tspbw1loik&lsa=read&mt=0&pbd=1&pbr=1&pgi=1k4dt7ifttao&ph=1&pid=KB5zFt7A&pii=0&pl=485&plc=1&pli=y6uxtc11i62v&pp=hlsjs&ppm=DVR&prc=1&ps=4&pss=1&pt=&pu=https%3A%2F%2Ftv0800.zip%2Fcanais%2Fassistir-eleven-sports-ao-vivo-gratis-hd-online%2F&pv=8.32.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=4.0.3&vb=1&vi=1&vl=90&wd=862&bwe=91265&cae=0&cct=0&ch=2&cst=10782&cdid=player&dnt=1&drm=0&ff=880&fsm=0&l=0&lng=pt_BR&mk=level(3000000)&mu=https%3A%2F%2Fda-d50d12b5.online.meo.pt%2Fwp%2Fcdn-er-vspp-cvl2.online.meo.pt%2Fshls%2FLIVE%24Eleven_Sports_1_HD%2Findex.m3u8%2FS!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf%2FLevel(3000000)&pcp=10782&pd=2&plng=pt_BR&pni=0&pr=2&q=0&sp=0&strt=3560&tb=10794&tt=0&vd=0&vs=0&sa=1710776274070
+#EXTINF:-1 Benfica TV 
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-744116698&e=s&n=7143418483867678&abc=1&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=0&ccp=0&cp=0&d=1&eb=0&ed=6&emi=t8355ehchtzg&i=1&lid=10tspbw1loik&lsa=read&mt=0&pbd=1&pbr=1&pgi=1pumcxz13r9o&ph=1&pid=KB5zFt7A&pii=0&pl=485&plc=1&pli=19315w21tuj8&pp=hlsjs&ppm=DVR&prc=1&ps=4&pss=1&pt=&pu=https%3A%2F%2Ftv0800.zip%2Fcanais%2Fassistir-benfica-tv-online-ao-vivo%2F&pv=8.32.1&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=4.0.3&vb=1&vi=1&vl=90&wd=862&abm=1&bwe=76799&cae=0&cct=0&ch=2&cst=10782&cdid=player&dnt=1&drm=0&ff=480&fsm=0&l=0&lng=pt_BR&mk=level(3000000)&mu=https%3A%2F%2Fda-d50d12b5.online.meo.pt%2Fwp%2Fcdn-er-vspp-cvl2.online.meo.pt%2Fshls%2FLIVE%24Benfica_TV_1_HD%2Findex.m3u8%2FS!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf%2FLevel(3000000)&pcp=10782&pd=2&plng=pt_BR&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=3510&tb=10788&tt=0&vd=0&vh=720&vs=0&vw=1280&sa=1710776381021
+#EXTINF:-1 Sony Movies
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8
+#EXTINF:-1 pornhub x
+https://ev-h.phncdn.com/hls/videos/201912/07/266782772/,720P_4000K,480P_2000K,240P_400K,_266782772.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1710773471&validto=1710780671&ipa=77.54.27.119&hdl=-1&hash=YJQSLdtoJ8cKGuXXKlJ7njj8Mf8%3D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
